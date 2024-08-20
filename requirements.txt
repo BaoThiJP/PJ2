@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+pickle-mixin
+numpy
+gensim
+scipy
+scikit-learn
+underthesea
